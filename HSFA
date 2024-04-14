@@ -3,3 +3,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ultra18s/Anti-E/main/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ultra18s/TOOL-LOCK/main/TOOL"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ultra18s/Macro/main/FMACRO"))()
 print("Scripts by DOOM - not MADE by me")
+print("Noted* Some of these scripts had malware/loggers in them so i had to remove them.")
