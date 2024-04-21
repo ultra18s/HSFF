@@ -5,3 +5,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ultra18s/Macro/main/F
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ultra18s/Resolver/main/RSF"))()
 print("Scripts by DOOM - not MADE by me")
 print("Noted* Some of these scripts had malware/loggers in them so i had to remove them.")
+print("Adonis Loaded")
+print("Anti Lock Loaded")
+print("Tool-lock Loaded")
+print("Fake Macro loaded")
+print("Resolver Loaded")
+
